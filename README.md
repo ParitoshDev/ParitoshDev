@@ -17,7 +17,7 @@ Here are some resources I'm using to enhance my skills:
 ## Connect with Me
 I'm always open to learning from others and connecting with fellow beginners and experienced developers. Feel free to reach out to me for discussions, advice, or collaboration:
 
-- **Email**: paritosh@example.com
+- **Email**: [iparitosh.dev@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
 - **Twitter**: [https://x.com/paritosh__Dev]
 
