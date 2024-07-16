@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ## About Me
-I'm Paritosh, a beginner in the world of coding and full-stack development. I may not have much experience yet, but I am eager to learn, grow, and explore the vast possibilities that programming offers. I believe in the power of continuous learning and am excited to embark on this journey of becoming a proficient developer.
+I'm Paritosh, an indi game developer.
 
 ## Learning Goals
 - **Languages**: Currently learning JavaScript and Python
