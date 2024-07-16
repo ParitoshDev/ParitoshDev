@@ -4,9 +4,9 @@
 I'm Paritosh, an indi game developer.
 
 ## Learning Goals
-- **Languages**: Currently learning JavaScript and Python
-- **Frameworks**: Looking forward to diving into React and Node.js
-- **Projects**: Eager to start working on small projects to apply my skills
+- **Languages**: Java, C#, JavaScript.
+- **Frameworks**: Unity3D.
+- **Projects**: Isometric Zombie Shooter.
 
 ## Learning Resources
 Here are some resources I'm using to enhance my skills:
